@@ -9,5 +9,8 @@ _This will be a complete studying cheat sheet for people who want to prepare for
 _It contains acronyms and concept discussed in the study guides and covered by the exam_
 
 Day | Chapter | URL
+----|---------|--------------------------------------------------------------------------------------------------------
 1   |    1    | none : introduction
+----|---------|--------------------------------------------------------------------------------------------------------
 1   |    2    | (https://github.com/hbibz-journey/cissp-preperation-papers/blob/master/cissp-notes-ch2-INFOSECGOV-day1)
+----|---------|--------------------------------------------------------------------------------------------------------
