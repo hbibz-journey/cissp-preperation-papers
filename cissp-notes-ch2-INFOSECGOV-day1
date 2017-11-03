@@ -1,0 +1,48 @@
+# note 1 : Domain 1 : Information Security governance and risk management
+
+risk terms for C-level excecutives :
+		ToTal Cost of Ownership : TCO
+		Return On Investment    : ROI
+
+CIA triad :
+		Confidentiality         : preventing unauthorized read access to data
+			ex : PII - Personally identifiable Information (CC infos)
+		Integrity               : preventing unauthorized modification of:
+						data : data integrity violation
+						system : system integrity violation
+		Availability            : ensuring that data is available when needed and systems are usable
+			ex : DOS - Denial of Service
+	Its opposite is DAD             : Disclosure
+					  Alteration
+					  Destruction
+
+AAA       :
+	Authentication : proving identity claim
+	Authorization  : performed actions when authenticated 
+				you can be : Authorized  : permission granted
+					     Unauthorized: permission denied
+	Accountability : logging data for identification and sanctionning (punishing) violators - making users accountables for their actions
+  Identification is required before 'AAA'
+
+Nonrepudiation : a mix of athentication and integrity
+
+Defense-in-depth: layered defenses : when one safeguard fails an asset will not be compromised
+
+Risk analysis (RA) : asessing risk for the wisest choice (solution) and mitigating risks and threts on an asset
+	 bad RA --> wasted money / comprimised data or both 
+|
+ >Determining asset value helps with RA
+                  |
+		   >data / systems / people / buildings / property ... : people are the most valuable
+
+Threats and vulnerablities :
+	Threat       :  potential harmful occurence, a negative action that may harm an asset
+			ex : earthquakes/ floods/ network-based worms ...
+	Vulnerability: a weakness that allows a threat to cause harm
+Formula of THREAT:
+	--> Risk is threat * vulnerability
+	This formula may include impact :
+	---> Risk = threat * vulnerability * impact
+						|
+						.> consequences : the severity of the damage 
+			PS: human lives has near-infinite impact ; a risk with human lives loss is extremely high : must be mitigated
