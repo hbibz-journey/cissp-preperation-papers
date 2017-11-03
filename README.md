@@ -11,6 +11,5 @@ _It contains acronyms and concept discussed in the study guides and covered by t
 Day | Chapter | URL
 -------------|-------------|-------------
 1   |    1    | none : introduction
--------------|-------------|-------------
-1   |    2    | **[Visit](https://github.com/hbibz-journey/cissp-preperation-papers/blob/master/cissp-notes-ch2-INFOSECGOV-day1)**
--------------|-------------|-------------
+1   |    Domain 1 : Information Security governance and risk management   | **[Visit](https://github.com/hbibz-journey/cissp-preperation-papers/blob/master/cissp-notes-ch2-INFOSECGOV-day1)**
+
