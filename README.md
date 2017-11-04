@@ -1,4 +1,4 @@
-# CISSP preperation papers:
+# CISSP preperation papers
 
 ## Author : **[Muhammad Habib Jawady](https://web.facebook.com/hbibz2018)**
 
