@@ -1,0 +1,32 @@
+Risk Analysis Matrix:
+	some form of mapping the likehood of the occurance of a risk by analyzing the likehood and impact.
+
+ALE - Annualized Loss Expectancy:
+	The calculations allowing the determination of cost of loss due to risk, used to help on making decisions for mitigating risks.
+
+AV - Asset Value:
+	The value of the asset (container+data inside)
+
+EF - Exposure Factor:
+	The percentage of value an asset lost due to the occcurance of an incident.
+
+SLE - Single Loss Expectancy:
+	The cost of a single loss : EF * AV
+	
+ARO - Annual Rate of Occurance:
+	The number of losses / year
+
+Annualized Loss Expectancy:
+	Yearly cost due to a risk : SLE * ARO
+
+TCO - Total Cost of Ownership:
+	The total cost of deploying safeguards (contains all expenses even employees costs)
+
+ROI - Return On Investment:
+	The amount of $ you saved by applying safeguards, it may be
+		+ if ROI > TCO
+		- if ROI < TCO
+
+# reached page 26
+# i need to push this and sleep 
+# am so tired and wrote a lot today
