@@ -16,7 +16,7 @@ SLE - Single Loss Expectancy:
 ARO - Annual Rate of Occurance:
 	The number of losses / year
 
-Annualized Loss Expectancy:
+ALE - Annualized Loss Expectancy:
 	Yearly cost due to a risk : SLE * ARO
 
 TCO - Total Cost of Ownership:
